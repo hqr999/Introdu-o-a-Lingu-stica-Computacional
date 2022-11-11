@@ -6,4 +6,5 @@ No repositório se encontra uma pasta com os artigos científicos(em pdf com o n
 
 -OBS:Se quiser usar o etiquetador Cogroo no DeepNote,você precisará fazer alguns comandos em um prompt do DeepNote,esse arquivo com as intruções também se encontra aqui.
 Caso não consigo, recomendo replicar esse notebook no Google Collab.
+
 -Documentação do Cogroo: https://github.com/cogroo/cogroo4/wiki/API-CoGrOO-4
