@@ -1,1 +1,1 @@
-# Introdu-o-a-Lingu-stica-Computacional
+# Introdu-o-a-Linguistica-Computacional
